@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ff368628-8279-4e68-a23c-f7b95f9918b1)# Submit directories
+# Submit directories
 
 > Submit your startup or side project to submit Directories
 
