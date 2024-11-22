@@ -1,4 +1,4 @@
-# [Submit directories]
+![image](https://github.com/user-attachments/assets/8a7785d7-cc6e-42ca-b5fb-e7468ad29222)# [Submit directories]
 
 > Submit your startup or side project to submit Directories
 
@@ -47,3 +47,13 @@ Discover platforms where you can promote your startup or side project. Connect w
 | 38 | [Sprout24](https://sprout24.com/hub/directory/)    | Free  | Startup Directory  | [Submit](https://sprout24.com/submit/)  |
 | 39 | [DealMirror](https://dealmirror.com/)    | Free  | Software Directory  | [Submit](https://dealmirror.com/product-deal-request/)  |
 | 40 | [TechDirectory](https://www.techdirectory.io/)    | Free  | Software Directory  | [Submit](https://www.techdirectory.io/get-listed)  |
+| 41 | [Peerlist](https://peerlist.io/)    | Free  | Community  | [Submit](https://peerlist.io/scroll)  |
+| 42 | [Aitoolnet](https://www.aitoolnet.com/)    | Free  | Community  | [Submit](https://aitoolnet.com/submit)  |
+| 43 | [SnapMunk](https://startups.snapmunk.com/)    | Free  | Community  | [Submit](https://startups.snapmunk.com/join)  |
+| 44 | [SpotSaaS](https://www.spotsaas.com/)    | Free  | Community  | [Submit](https://www.spotsaas.com/get-listed)  |
+| 45 | [Uneed](https://www.uneed.best/)    | Free  | Community  | [Submit](https://www.uneed.best/submit-a-tool)  |
+| 46 | [FiveTaco](https://fivetaco.com/)    | Free  | Software Directory  | [Submit](https://fivetaco.com/submit)  |
+| 47 | [Fazier](https://fazier.com/)    | Free  | Community  | [Submit](https://fazier.com/launch)  |
+| 48 | [Curated](https://www.curated.design/)    | Free  | Community  | [Submit](https://www.curated.design/)  |
+| 49 | [10015 Tools](https://10015.io/)    | Free  | Startup Directory  | [Submit](https://10015.io/product-finder/submit)  |
+| 50 | [BigStartups](https://bigstartups.co/)    | Free  | Startup Directory  | [Submit](https://bigstartups.co/project/add)  |
