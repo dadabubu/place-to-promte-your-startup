@@ -1,4 +1,4 @@
-# Submit directories
+![image](https://github.com/user-attachments/assets/ff368628-8279-4e68-a23c-f7b95f9918b1)# Submit directories
 
 > Submit your startup or side project to submit Directories
 
@@ -57,3 +57,8 @@ Discover platforms where you can promote your startup or side project. Connect w
 | 48 | [Curated](https://www.curated.design/)    | Free  | Community  | [Submit](https://www.curated.design/)  |
 | 49 | [10015 Tools](https://10015.io/)    | Free  | Startup Directory  | [Submit](https://10015.io/product-finder/submit)  |
 | 50 | [BigStartups](https://bigstartups.co/)    | Free  | Startup Directory  | [Submit](https://bigstartups.co/project/add)  |
+| 51 | [Insidr ai](https://www.insidr.ai/)    | Free  | AI Directory  | [Submit](https://www.insidr.ai/submit-tools/)  |
+| 52 | [ToolsFine](https://toolsfine.com/)    | Free  | AI Directory   | [Submit](https://tally.so/r/wvB7Xg)  |
+| 53 | [Tiny Startups](https://www.tinystartups.com/)    | Free  | Startup Directory   | [Submit](https://tally.so/r/wMzP8X)  |
+| 54 | [Stork AI](https://www.stork.ai/)    | Free  | AI Directory   | [Submit](https://www.stork.ai/log-in?usredir=%2Fsubmit-ai-tool)  |
+| 55 | [SoftGist](https://softgist.com/)    | Free  | AI Directory   | [Submit](https://softgist.com/submit-a-tool)  |
