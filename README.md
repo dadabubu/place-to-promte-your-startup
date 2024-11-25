@@ -62,3 +62,38 @@ Discover platforms where you can promote your startup or side project. Connect w
 | 53 | [Tiny Startups](https://www.tinystartups.com/)    | Free  | Startup Directory   | [Submit](https://tally.so/r/wMzP8X)  |
 | 54 | [Stork AI](https://www.stork.ai/)    | Free  | AI Directory   | [Submit](https://www.stork.ai/log-in?usredir=%2Fsubmit-ai-tool)  |
 | 55 | [SoftGist](https://softgist.com/)    | Free  | AI Directory   | [Submit](https://softgist.com/submit-a-tool)  |
+| 56 | [Stork AI](https://www.stork.ai/)    | Free  | AI Directory   | [Submit](https://www.stork.ai/log-in?usredir=%2Fsubmit-ai-tool)  |
+| 57 | [Tiny Startups](https://www.stork.ai/)    | Free  | Startup Directory   | [Submit](https://tally.so/r/wMzP8X)  |
+| 58 | [Ben's Bites](https://news.bensbites.com/)    | Free  | AI Directory   | [Submit](https://news.bensbites.com/submit)  |
+| 59 | [Startup Tracker](https://startuptracker.io/)    | Free  | Startup Directory  | [Submit](https://startuptracker.io/crowdsourcing/)  |
+| 60 | [AI Collection](https://thataicollection.com/)    | Free  | AI Directory | [Submit](https://thataicollection.com/en/submit/)  |
+| 61 | [AI Library](https://library.phygital.plus/)    | Free  | AI Directory  | [Submit](https://library.phygital.plus/tool-submission)  |
+| 62 | [AI Tools Marketer](https://aitoolsmarketer.com/)    | Free  | AI Directory  | [Submit](https://aitoolsmarketer.com/submit/)  |
+| 63 | [Launched](https://launched.io/)    | Free  | startup Directory  | [Submit](https://launched.io/newsubmission)  |
+| 64 | [Techendo](https://techendo.com/)    | Free  | startup Directory  | [Submit](https://techendo.com/software/add)  |
+| 65 | [CTRL ALT](https://ctrlalt.cc/)    | Free  | startup Directory  | [Submit](https://ctrlalt.cc/)  |
+| 66 | [AI Mojo](https://aimojo.io/)    | Free  | AI Directory  | [Submit](https://aimojo.io/submit/)  |
+| 67 | [OpenFuture](https://openfuture.ai/)    | Free  | AI Directory  | [Submit](https://openfuture.ai/submit-tool)  |
+| 68 | [OpenAlternative](https://openalternative.co/)    | Free  | Software Directory  | [Submit](https://openalternative.co/submit)  |
+| 69 | [Microlaunch](https://microlaunch.net/)    | Free  | Community  | [Submit](https://tally.so/r/mYaR6N)  |
+| 70 | [Crazy About Startups](https://crazyaboutstartups.com/)    | Free  | Startup Directory  | [Submit](https://crazyaboutstartups.com/share-your-startup-2/?redirect_to=%2Fshare-your-startup%2F)  |
+| 71 | [Startup Buffer](https://startupbuffer.com/)    | Free  | Startup Directory  | [Submit](https://startupbuffer.com/site/submit)  |
+| 72 | [Resource fyi](https://resource.fyi/)    | Free  | Software Directory  | [Submit](https://resource.fyi/account/submit)  |
+| 73 | [AllGPTs](https://allgpts.co/)    | Free  | AI Directory  | [Submit](https://allgpts.co/)  |
+| 74 | [AIFINDY](https://aifindy.com/)    | paid | AI Directory  | [Submit](https://aifindy.com/contacto/publica-tu-ia-en-aifindy)  |
+| 75 | [AI Tool Details](https://chatgptdemo.com/)    | Free  | AI Directory  | [Submit](https://chatgptdemo.com/submit-new-ai-tool/)  |
+| 76 | [T5](https://tools.robingood.com/)    | Free  | Startup Directory  | [Submit](https://tools.robingood.com/cp/181/how-to-submit)  |
+| 77 | [Startuplister](https://startuplister.com/)    | Free  | Startup Directory  | [Submit](https://startuplister.com/)  |
+| 78 | [Enests](https://enests.co/)    | Free  | Review Platform | [Submit](https://enests.co/?login=true&redirect=/companies/listing)  |
+| 79 | [Promote Project](https://www.promoteproject.com/)    | Free  | Startup Directory  | [Submit](https://www.promoteproject.com/submit-startup/)  |
+| 80 | [AffordHunt](https://www.affordhunt.com/)    | Free  | Startup Directory  | [Submit](https://www.affordhunt.com/onesubmitai)  |
+| 81 | [Dev Pages](https://www.devpages.io/)    | Free  | Software Directory  | [Submit](https://www.devpages.io/submit-a-tool)  |
+| 82 | [OneMillionDirectory](https://www.onemilliondirectory.com/)    | Free  | General Directory  | [Submit](https://www.onemilliondirectory.com/submit)  |
+| 83 | [AIGCLIST](https://aigclist.com/)    | Free  | AI Directory  | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSdg8qIBAmcvsiOz0j0j-JAdoo_ctKL27jGrttykmAclrTbbYA/viewform)  |
+| 84 | [WhatTheAI](https://whattheai.tech/)    | Free  | AI Directory  | [Submit](https://whattheai.tech/submit-a-tool/)  |
+| 85 | [ANYFP](https://anyfp.com/)    | Free  | AI Directory  | [Submit](https://anyfp.com/contact/)  |
+| 86 | [AIMonstr](https://www.aimonstr.com/)    | Free  | AI Directory  | [Submit](https://www.aimonstr.com/)  |
+| 87 | [10words](https://10words.io/)    | Free  | Startup Directory  | [Submit](https://portal.10words.io/submissions/submit)  |
+| 88 | [The AI Library](https://www.theailibrary.co/)    | Free  | AI Directory  | [Submit](https://www.theailibrary.co/pricing)  
+| 89 | [Early Tools](https://www.early.tools/)    | Free  | Startup Directory  | [Submit](https://www.early.tools/submit)  
+| 90 | [ToolHub](https://www.early.tools/)    | Free  | Startup Directory  | [Submit](https://toolhub.me/add/)  
